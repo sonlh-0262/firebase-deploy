@@ -1,20 +1,20 @@
 # Getting Started with Create React App
 
-create-react-app firebase-deploy
+### `create-react-app firebase-deploy`
 
-yarn build
+### `yarn build`
 
 ## Create firbase project in https://firebase.google.com/
 
-cd firebase-deploy/
+### `cd firebase-deploy/`
 
-`Setup firebase CLI`
+### Setup firebase CLI`
 
-firebase login
+### `firebase login`
 
-firebase init (select hosting web app)
+### `firebase init` (select hosting web app)
 
-firebase deploy
+### `firebase deploy`
 
 Can config to auto deploy with firebase in `firebase init`
 
